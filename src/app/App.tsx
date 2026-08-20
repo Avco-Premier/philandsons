@@ -10,7 +10,8 @@ export default function App() {
   const phone = "(718) 961-0263";
   const hours = "11 AM–9 PM";
   const googleMapsUrl = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(address)}`;
-  const orderNowUrl = "https://philandsonsonmain.com/order-now";
+  const orderNowUrl =
+    "https://philandsonsonmain.com/order-now?utm_source=website&utm_medium=direct_ordering&utm_campaign=order_now";
 
   const [activeTab, setActiveTab] = useState("APPETIZERS");
 
@@ -298,6 +299,7 @@ export default function App() {
       {/* Main Content */}
       <main className="relative max-w-7xl mx-auto px-4 py-16">
         {/* Contact Cards with Staggered Animation */}
+        <h2 className="sr-only">Visit, Call, or Check Our Hours</h2>
         <div className="grid md:grid-cols-3 gap-6 mb-20">
           {[
             {
@@ -383,6 +385,7 @@ export default function App() {
 
         {/* Menu Section */}
         <motion.section
+          id="menu"
           className="mb-20"
           initial={{ y: 50, opacity: 0 }}
           whileInView={{ y: 0, opacity: 1 }}
@@ -510,9 +513,12 @@ export default function App() {
           >
             <div className="relative">
               <div className="absolute -top-6 -left-6 w-full h-full border-4 border-[#D32F2F] -z-10" />
+              {/* TODO(seo): this image is hotlinked from philandsonpizza.com, a
+                  different business's site, not a verified Phil & Sons photo.
+                  Needs a real photo asset from this restaurant before launch. */}
               <ImageWithFallback
                 src="https://www.philandsonpizza.com/wp-content/uploads/2022/07/about-left.jpg"
-                alt="Pepperoni Pizza"
+                alt="Pepperoni pizza with fresh mozzarella at Phil & Sons"
                 className="w-full h-[400px] object-cover border-4 border-black"
               />
             </div>
