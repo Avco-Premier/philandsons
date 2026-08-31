@@ -843,6 +843,29 @@ export default function App() {
             </div>
           </div>
         </div>
+        <div className="text-center mt-4">
+          <a
+            href="https://www.avcopremier.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              gap: "6px",
+              fontSize: "11px",
+              opacity: 0.7,
+              textDecoration: "none",
+              color: "inherit",
+            }}
+          >
+            <img
+              src="https://www.avcopremier.com/_next/image?url=%2Fimages%2Favco-premier-logo-black.png&w=96&q=75&dpl=dpl_HZwfP6XyLRcHK746zkSVpoeaMWwa"
+              alt="Avco Premier"
+              style={{ height: "14px", width: "auto" }}
+            />
+            Powered by Avco Premier
+          </a>
+        </div>
       </footer>
     </div>
   );
