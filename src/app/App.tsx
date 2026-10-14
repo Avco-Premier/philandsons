@@ -768,6 +768,7 @@ export default function App() {
               © 2026 Phil & Sons Restaurant & Pizzeria. All
               rights reserved.
             </p>
+            <p className="mt-2 text-sm"><a href="https://a816-health.nyc.gov/ABCEatsRestaurants/#!/Search" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "underline" }}>NYC Health restaurant inspection results</a></p>
             <div
               className="mt-5 flex justify-center"
               aria-label="Download the Phil & Sons app"
