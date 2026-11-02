@@ -1,0 +1,400 @@
+{
+  "site": {
+    "url": "https://www.philandsonsonmain.com",
+    "language": "en-US",
+    "marketTier": "dense-metro",
+    "locale": "en_US",
+    "themeColor": "#056839",
+    "launched": false,
+    "vercelProjectDomain": "",
+    "aiTraining": true,
+    "nav": [
+      "menu",
+      "about",
+      "visit",
+      "faq"
+    ],
+    "menuUpdated": "2026-11-02",
+    "analytics": {
+      "ga4Id": ""
+    },
+    "searchConsoleVerification": "",
+    "redirects": [],
+    "privacyUpdated": "2026-11-02",
+    "menuNotice": "",
+    "headerLogo": "image",
+    "colors": {
+      "brand": "#056839",
+      "background": "#fbf0db"
+    },
+    "theme": "market"
+  },
+  "business": {
+    "name": "Phil & Sons on Main Italian restaurant and pizzeria",
+    "alternateNames": [
+      "Phil & Sons on Main"
+    ],
+    "description": "Phil & Sons on Main Italian restaurant and pizzeria is a pizza restaurant in Flushing, NY.",
+    "category": "Pizza restaurant",
+    "gbpCategories": [
+      "Pizza restaurant",
+      "Italian restaurant",
+      "Food delivery",
+      "European restaurant"
+    ],
+    "cuisines": [
+      "European",
+      "Italian",
+      "Pizza"
+    ],
+    "meals": [
+      "lunch",
+      "dinner"
+    ],
+    "services": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "catering": false,
+      "reservations": true,
+      "privateEvents": false
+    },
+    "priceRange": "$",
+    "foundingYear": null,
+    "founders": [],
+    "phone": "+1-718-961-0263",
+    "phoneDisplay": "(718) 961-0263",
+    "additionalPhones": [],
+    "email": "",
+    "address": {
+      "street": "57-29 Main St",
+      "locality": "Queens",
+      "region": "NY",
+      "postalCode": "11355",
+      "country": "US",
+      "neighborhood": "Flushing"
+    },
+    "geo": {
+      "lat": 40.7456,
+      "lng": -73.82568
+    },
+    "hours": [
+      {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "11:00",
+        "closes": "21:00"
+      }
+    ],
+    "hoursNote": "",
+    "specialClosures": [],
+    "servicePeriods": [],
+    "serviceArea": [
+      "Queens",
+      "Flushing Chinatown",
+      "Murray Hill",
+      "Pomonok"
+    ],
+    "delivery": {
+      "radiusMiles": 2,
+      "fee": "",
+      "minimum": "$15",
+      "partners": []
+    },
+    "ordering": {
+      "url": "https://philandsonsonmain.com/order-now",
+      "label": "Order online",
+      "provider": ""
+    },
+    "reservations": {
+      "url": ""
+    },
+    "apps": {
+      "iosUrl": "https://apps.apple.com/us/app/phil-sons/id6759742241",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.avco.philandsons",
+      "iosAppId": "6759742241"
+    },
+    "google": {
+      "placeId": "ChIJtVkK6G5gwokRV8xjMWzKlu4",
+      "mapsUrl": "https://maps.google.com/?cid=17192151193567349847",
+      "reviewUrl": "https://search.google.com/local/writereview?placeid=ChIJtVkK6G5gwokRV8xjMWzKlu4",
+      "embedUrl": "",
+      "rating": 4.3,
+      "reviewCount": 602,
+      "ratingCheckedOn": "2026-11-02"
+    },
+    "social": {
+      "instagram": "https://www.instagram.com/philandsonsonmain/",
+      "facebook": "https://www.facebook.com/philandsonsfrozenpizza",
+      "tiktok": "",
+      "yelp": "https://www.yelp.com/biz/phil-and-sons-pizzeria-and-restaurant-flushing-3",
+      "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g47729-d10076139-Reviews-Phil_Sons-Flushing_Queens_New_York.html",
+      "x": ""
+    },
+    "press": [],
+    "awards": [],
+    "reviews": [
+      {
+        "author": "Fulton Hou",
+        "text": "Great people working here, suppose Sal is a good guy too. Got the drunken grandma pie, but somehow favorite part of it was the crust",
+        "source": "Google",
+        "date": "2026-04-24",
+        "rating": 5,
+        "url": "",
+        "context": "dine-in"
+      },
+      {
+        "author": "Kevin Megnauth",
+        "text": "Classic NYC slice on main street. A nice quick meal if you are visiting NYP Hospital.",
+        "source": "Google",
+        "date": "2026-09-23",
+        "rating": 4,
+        "url": "",
+        "context": "dine-in"
+      },
+      {
+        "author": "Guap Sef",
+        "text": "Food was fantastic! The barbecue chicken slice is a must try. Dragon slayer burger came with a kick give it a try",
+        "source": "Google",
+        "date": "2026-05-18",
+        "rating": 5,
+        "url": "",
+        "context": "dine-in"
+      },
+      {
+        "author": "Michelle Ongkingco",
+        "text": "This old school pizza place is where it's at. I've been coming here since I was a little kid and their pizza is like home to me. Comforting. Love their specialty pizzettas (lasagna pie is amaaazing- as well as the Phil's special). So happy they've endured here on Main Street since so many places in the area have turned into Chinese food spots. If you want a slice of OG New York pizza this is where to go.",
+        "source": "Google",
+        "date": "2026-07-22",
+        "rating": 5,
+        "url": "",
+        "context": "dine-in"
+      }
+    ],
+    "featuredItems": [
+      "MEAT LOVERS PIZZA (LARGE)",
+      "FRIED CALAMARI",
+      "MOZZARELLA STICKS",
+      "BAKED ZITI"
+    ],
+    "catering": {
+      "menuFile": "catering",
+      "leadTime": "",
+      "minimum": "",
+      "serviceArea": [],
+      "deliveryNote": "",
+      "contact": "",
+      "days": "",
+      "ordering": "",
+      "payment": "",
+      "cancellation": "",
+      "events": "",
+      "headcountGuide": "",
+      "dietary": ""
+    },
+    "faq": [
+      {
+        "q": "Where is Phil & Sons on Main Italian restaurant and pizzeria?",
+        "a": "Phil & Sons on Main Italian restaurant and pizzeria is at 57-29 Main St, Queens, NY 11355, in Flushing. It's in Queensboro Hill, beside Chase Bank and Yeh's Bakery, near NewYork-Presbyterian Queens Hospital.",
+        "topic": "Hours and visiting"
+      },
+      {
+        "q": "What are your hours?",
+        "a": "We're open Mon–Sun 11 AM to 9 PM.",
+        "topic": "Hours and visiting"
+      },
+      {
+        "q": "Where can I park?",
+        "a": "There's a free parking lot. The nearest bus stop is Main St/Booth Memorial Av, just steps away.",
+        "topic": "Hours and visiting"
+      },
+      {
+        "q": "Do you take reservations?",
+        "a": "Yes. Call (718) 961-0263.",
+        "topic": "Hours and visiting"
+      },
+      {
+        "q": "Can I order ahead for pickup?",
+        "a": "Yes. Order online at philandsonsonmain.com/order-now and pick it up at the counter.",
+        "topic": "Ordering and delivery"
+      },
+      {
+        "q": "Do you deliver?",
+        "a": "Phil & Sons on Main Italian restaurant and pizzeria delivers the full menu from 57-29 Main St to homes and offices in Queens and nearby Flushing Chinatown, Murray Hill and Pomonok, within about 2 miles of the restaurant. There's a $15 minimum order. Order online at philandsonsonmain.com/order-now or call (718) 961-0263 during our hours (Mon–Sun 11 AM to 9 PM).",
+        "topic": "Ordering and delivery"
+      },
+      {
+        "q": "Do you have gluten-free options?",
+        "a": "Yes. The menu lists the Cauliflower Gluten Free Pizza ($14.20). Ask us about how it's prepared if you have an allergy.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What payment do you accept?",
+        "a": "We accept credit cards, debit cards and tap to pay.",
+        "topic": "Ordering and delivery"
+      },
+      {
+        "q": "Is the restaurant wheelchair accessible?",
+        "a": "Yes. Wheelchair-accessible entrance, restroom and seating.",
+        "topic": "Hours and visiting"
+      },
+      {
+        "q": "Can I bring my dog?",
+        "a": "No, Phil & Sons on Main Italian restaurant and pizzeria isn't dog-friendly.",
+        "topic": "Hours and visiting"
+      },
+      {
+        "q": "What should I order the first time?",
+        "a": "Start with our signature dishes: the Meat Lovers Pizza (Large) ($31.50), the Fried Calamari ($14.20), the Mozzarella Sticks ($8.20) and the Baked Ziti ($9.95).",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "How much does a meal cost?",
+        "a": "Most dishes on the Phil & Sons on Main Italian restaurant and pizzeria menu cost $8.25 to $31. The menu has 21 sections: Lunch Specials, Weekend Pasta Special, Salads, Soups, Appetizers, Burgers, Hot Heroes, Cold Heroes, Fresh Homemade Panini & Wraps, From the Grill, Pasta, Entrees, Calzone & Rolls, Lunch Time Menu, Pizza Night Special, Pizza, Family Time Specials, Desserts, Side Orders & Vegetables, Drinks & Coffee and Seafood Entree, with every price listed on the menu page.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What is the Meat Lovers Pizza (Large)?",
+        "a": "The Meat Lovers Pizza (Large) costs $31.50. It's made with pepperoni, sausage and meatball &amp; mozzarella.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What is the Fried Calamari?",
+        "a": "The Fried Calamari costs $14.20. It's made with lightly breaded; fried to golden perfection.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What is the Mozzarella Sticks?",
+        "a": "The Mozzarella Sticks costs $8.20. It's made with hand - sliced mozzarella lightly breaded and fried to golden perfection.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What is the Baked Ziti?",
+        "a": "The Baked Ziti costs $9.95.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What lunch specials do you serve?",
+        "a": "The Lunch Specials section of our menu has 2 Slices of Cheese pizza ($8), Baked Ziti ($9.95), Penne alla Vodka ($11.25), Penne With Meat Sauce ($11.25) and Penne with sautéed Broccoli ($11.25), and 13 more. All meals come with a can of soda or 16oz water.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What salads do you serve?",
+        "a": "The Salads section of our menu has Hosue Salad ($8.20), Caesar Salad ($8.20), Greek Salad ($8.20), Chef Salad ($15.20) and Cold Antipasto ($13.20), and 6 more.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What soups do you serve?",
+        "a": "The Soups section of our menu has Chicken Soup (16 oz.) ($7.20), Lintil Soup (16 oz.) ($7.20), Pasta Fagioli Tortellini (16 oz.) ($7.20), Spinach Egg Drop Soup (16 oz.) ($7.20) and Seafood Bisque (16 oz.) ($8.20), and 1 more.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What appetizers do you serve?",
+        "a": "The Appetizers section of our menu has Hot Antipasto ($12.20), Baked Clams ($11.20), Fried Calamari ($14.20), Stuffed Mushroom ($11.20) and Mozzarella Sticks ($8.20), and 10 more.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What burgers do you serve?",
+        "a": "The Burgers section of our menu has Hamburger ($7.20), Hamburger (Deluxe) ($12.45), Cheeseburger ($8.20), Cheeseburger (Deluxe) ($13.45) and Pizza Burger ($9.20), and 13 more.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What hot heroes do you serve?",
+        "a": "The Hot Heroes section of our menu has Eggplant Hero ($9.50), Sausage Hero ($10.50), Meatball Hero ($10.50), Potato & Egg Hero ($9.50) and Pepper & Egg Hero ($9.50), and 9 more.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What cold heroes do you serve?",
+        "a": "The Cold Heroes section of our menu has Italian Hoagie ($10.50), Tuna Salad Hero ($10.50), Chicken Club Hero ($12.50) and Caesar Chicken Hero ($12.50).",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What fresh homemade panini & wraps do you serve?",
+        "a": "The Fresh Homemade Panini & Wraps section of our menu has Panini di Maria Panini/Wrap ($10.50), Chicken Caesar Panini/Wrap ($9.50), Buffalo Chicken Panini/Wrap ($9.50), Fresco Chicken Panini/Wrap ($9.50) and Tuna Panini / Wrap / Pita ($9.50), and 4 more.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What from the grill do you serve?",
+        "a": "The From the Grill section of our menu has Gyro ($8.20), Gyro Deluxe ($13.45), Grilled Chicken on a Pita ($8.20) and Grilled Chicken on a Pita Deluxe ($13.45).",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What pasta do you serve?",
+        "a": "The Pasta section of our menu has Pasta with Tomato Sauce ($11.50), Pasta with Meat Sauce ($16.50), Pasta with Fresh Garlic & Olive Oil Sauce ($14.50), Pasta with Meatballs ($17.50) and Pasta with Marinara Sauce ($13.50), and 14 more.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What entrees do you serve?",
+        "a": "The Entrees section of our menu has Eggplant Parmigiana ($18.50), Eggplant Rollatini ($20.50), Eggplant Lasagna ( Vegetarian ) ($20.50), Meatball & Sauteed Peppers ($18.50) and Sausage & Sauteed Peppers ($18.50), and 14 more.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What calzone & rolls do you serve?",
+        "a": "The Calzone & Rolls section of our menu has Cheese Calzone ($8.25), Stromboli ($4.95), Sausage, Pepper & Cheese Roll ($8.25), Sauteed Spinach & Cheese Roll ($8.25) and Sauteed Broccoli & Cheese Roll ($8.25), and 4 more.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What lunch time menu do you serve?",
+        "a": "The Lunch Time Menu section of our menu has Lunch Time 1 ($15), Elisa's Lunch ($11) and 3 Hero Combo ($31).",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What pizza do you serve?",
+        "a": "The Pizza section of our menu has Cheese Neapolitan Pizza ($20.45), Pizzeta Personal Pizza ($11.50), Cheese Sicilian Pizza Thick Crust ($22.20), Cauliflower Gluten Free Pizza ($14.20) and Bianca Pie (Pizzettta) ($15.50), and 53 more.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What family time specials do you serve?",
+        "a": "The Family Time Specials section of our menu has Big Family Night Special ($75), Chicken Night ($45), Shrimp Night ($50), Pasta Night ($35) and App Combo Special ($35), and 1 more.",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What desserts do you serve?",
+        "a": "The Desserts section of our menu has Cheesecake ($7.20), Tiramisu ($7.20), Oreo Fudge Cake ($7.20), Chocolate Cake ($7.20) and Zeppoles (3) ($2.50).",
+        "topic": "Food and menu"
+      },
+      {
+        "q": "What seafood entree do you serve?",
+        "a": "The Seafood Entree section of our menu has Fried Calamari Entree ($21.50), Marinara (Mild or Fra Divavolo) ($21.50), Fried Shrimp ($20.50), Shrimp Alfredo ($22.50) and Shrimp Francese ($22.50), and 5 more.",
+        "topic": "Food and menu"
+      }
+    ],
+    "video": null,
+    "logo": "logo.png",
+    "healthInspectionUrl": "",
+    "foundingDate": "",
+    "visit": {
+      "landmarks": "In Queensboro Hill, beside Chase Bank and Yeh's Bakery, near NewYork-Presbyterian Queens Hospital.",
+      "parking": "There's a free parking lot.",
+      "transit": "The nearest bus stop is Main St/Booth Memorial Av, just steps away.",
+      "accessibility": "Wheelchair-accessible entrance, restroom and seating.",
+      "arrival": "",
+      "pickup": ""
+    },
+    "amenities": {
+      "outdoorSeating": false,
+      "wheelchairAccessible": true,
+      "dogFriendly": false,
+      "parking": true
+    },
+    "paymentMethods": [
+      "Credit cards",
+      "Debit cards",
+      "Tap to pay"
+    ],
+    "dietaryNote": "",
+    "ownerWords": "Phil & Sons on Main Italian restaurant and pizzeria is a pizza restaurant at 57-29 Main St in Queens, in Flushing, NY. Look for us in Queensboro Hill, beside Chase Bank and Yeh's Bakery, near NewYork-Presbyterian Queens Hospital. We're open for lunch and dinner, seven days a week.\n\nThe pizza list runs 58 choices long, from the Cheese Neapolitan Pizza to the Pizzeta Personal Pizza. There's also a pizza night special list with one choices. The Meat Lovers Pizza (Large) ($31.50) is made with pepperoni, sausage, meatball &amp; mozzarella. The Fried Calamari ($14.20) is made with lightly breaded; fried to golden perfection. For guests who avoid gluten or skip meat, the menu has the Eggplant Lasagna ( Vegetarian ), the Cauliflower Gluten Free Pizza and the Vegan Sicilian Pie (Large).\n\nGuests rate Phil & Sons on Main Italian restaurant and pizzeria 4.3 stars across 602+ Google reviews. “Great people working here, suppose Sal is a good guy too.” (Fulton Hou, Google review) “A nice quick meal if you are visiting NYP Hospital.” (Kevin Megnauth, Google review)\n\nYou can eat in, take out or order delivery. You can order ahead online and pick it up at the restaurant. We deliver within about 2 miles with a $15 minimum. There's a free parking lot. Come see us at 57-29 Main St in Queens, or call (718) 961-0263 to order.",
+    "milestones": [],
+    "featuredNotes": {}
+  },
+  "seo": {
+    "dishTerms": []
+  }
+}

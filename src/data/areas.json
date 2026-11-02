@@ -1,0 +1,449 @@
+{
+  "center": {
+    "lat": 40.7456,
+    "lng": -73.82568,
+    "zip": "11355"
+  },
+  "radiusMi": 4.0,
+  "source": "OpenStreetMap (Overpass + Nominatim), © OpenStreetMap contributors",
+  "areas": [
+    {
+      "name": "Flushing Chinatown",
+      "kind": "neighbourhood",
+      "lat": 40.7596,
+      "lng": -73.83015,
+      "distanceMi": 1.0,
+      "zips": [
+        "11354"
+      ],
+      "serve": true,
+      "services": [
+        "delivery"
+      ],
+      "terms": "$15 minimum",
+      "page": false,
+      "note": ""
+    },
+    {
+      "name": "Murray Hill",
+      "kind": "neighbourhood",
+      "lat": 40.76,
+      "lng": -73.81306,
+      "distanceMi": 1.2,
+      "zips": [
+        "11355"
+      ],
+      "serve": true,
+      "services": [
+        "delivery"
+      ],
+      "terms": "$15 minimum",
+      "page": false,
+      "note": ""
+    },
+    {
+      "name": "Pomonok",
+      "kind": "neighbourhood",
+      "lat": 40.73235,
+      "lng": -73.80805,
+      "distanceMi": 1.3,
+      "zips": [
+        "11365"
+      ],
+      "serve": true,
+      "services": [
+        "delivery"
+      ],
+      "terms": "$15 minimum",
+      "page": false,
+      "note": ""
+    },
+    {
+      "name": "Flushing",
+      "kind": "quarter",
+      "lat": 40.76543,
+      "lng": -73.81743,
+      "distanceMi": 1.4,
+      "zips": [
+        "11355"
+      ],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Koreatown",
+      "kind": "neighbourhood",
+      "lat": 40.76379,
+      "lng": -73.80824,
+      "distanceMi": 1.6,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Corona",
+      "kind": "neighbourhood",
+      "lat": 40.74696,
+      "lng": -73.86015,
+      "distanceMi": 1.8,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Fresh Meadows",
+      "kind": "neighbourhood",
+      "lat": 40.73482,
+      "lng": -73.79347,
+      "distanceMi": 1.8,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Forest Hills",
+      "kind": "neighbourhood",
+      "lat": 40.72141,
+      "lng": -73.84383,
+      "distanceMi": 1.9,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Linden Hill",
+      "kind": "neighbourhood",
+      "lat": 40.77444,
+      "lng": -73.82306,
+      "distanceMi": 2.0,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "LeFrak City",
+      "kind": "neighbourhood",
+      "lat": 40.73632,
+      "lng": -73.86231,
+      "distanceMi": 2.0,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Kew Gardens",
+      "kind": "neighbourhood",
+      "lat": 40.71394,
+      "lng": -73.83074,
+      "distanceMi": 2.2,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Queens",
+      "kind": "suburb",
+      "lat": 40.71351,
+      "lng": -73.82831,
+      "distanceMi": 2.2,
+      "zips": [
+        "11355"
+      ],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "East Elmhurst",
+      "kind": "neighbourhood",
+      "lat": 40.76121,
+      "lng": -73.86514,
+      "distanceMi": 2.3,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Forest Hills Gardens",
+      "kind": "neighbourhood",
+      "lat": 40.71561,
+      "lng": -73.84263,
+      "distanceMi": 2.3,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Utopia",
+      "kind": "neighbourhood",
+      "lat": 40.72732,
+      "lng": -73.78652,
+      "distanceMi": 2.4,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Rego Park",
+      "kind": "neighbourhood",
+      "lat": 40.72341,
+      "lng": -73.8628,
+      "distanceMi": 2.5,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Parkside",
+      "kind": "neighbourhood",
+      "lat": 40.71074,
+      "lng": -73.85095,
+      "distanceMi": 2.7,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Elmhurst",
+      "kind": "quarter",
+      "lat": 40.73658,
+      "lng": -73.87839,
+      "distanceMi": 2.8,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Bayside",
+      "kind": "neighbourhood",
+      "lat": 40.76844,
+      "lng": -73.77708,
+      "distanceMi": 3.0,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "College Point",
+      "kind": "neighbourhood",
+      "lat": 40.7876,
+      "lng": -73.84597,
+      "distanceMi": 3.1,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Malba",
+      "kind": "neighbourhood",
+      "lat": 40.79066,
+      "lng": -73.8268,
+      "distanceMi": 3.1,
+      "zips": [
+        "11357"
+      ],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Oakland Gardens",
+      "kind": "neighbourhood",
+      "lat": 40.75399,
+      "lng": -73.76597,
+      "distanceMi": 3.2,
+      "zips": [
+        "11364"
+      ],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Richmond Hill",
+      "kind": "neighbourhood",
+      "lat": 40.69943,
+      "lng": -73.83097,
+      "distanceMi": 3.2,
+      "zips": [
+        "11418"
+      ],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Jackson Heights",
+      "kind": "neighbourhood",
+      "lat": 40.75566,
+      "lng": -73.88578,
+      "distanceMi": 3.2,
+      "zips": [
+        "11370"
+      ],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Hillside",
+      "kind": "neighbourhood",
+      "lat": 40.70788,
+      "lng": -73.7868,
+      "distanceMi": 3.3,
+      "zips": [
+        "11432"
+      ],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Silverpointe Estates",
+      "kind": "neighbourhood",
+      "lat": 40.79251,
+      "lng": -73.83957,
+      "distanceMi": 3.3,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Terrace Heights",
+      "kind": "neighbourhood",
+      "lat": 40.72149,
+      "lng": -73.7693,
+      "distanceMi": 3.4,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Whitestone",
+      "kind": "neighbourhood",
+      "lat": 40.79455,
+      "lng": -73.81847,
+      "distanceMi": 3.4,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Beechhurst",
+      "kind": "neighbourhood",
+      "lat": 40.79149,
+      "lng": -73.80458,
+      "distanceMi": 3.4,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Middle Village",
+      "kind": "neighbourhood",
+      "lat": 40.7184,
+      "lng": -73.88228,
+      "distanceMi": 3.5,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Brooklyn Manor",
+      "kind": "neighbourhood",
+      "lat": 40.69483,
+      "lng": -73.84764,
+      "distanceMi": 3.7,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Windsor Oak",
+      "kind": "neighbourhood",
+      "lat": 40.7389,
+      "lng": -73.7561,
+      "distanceMi": 3.7,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Hollis",
+      "kind": "neighbourhood",
+      "lat": 40.71344,
+      "lng": -73.76708,
+      "distanceMi": 3.8,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    },
+    {
+      "name": "Morris Park",
+      "kind": "neighbourhood",
+      "lat": 40.69038,
+      "lng": -73.81597,
+      "distanceMi": 3.8,
+      "zips": [],
+      "serve": false,
+      "services": [],
+      "terms": "",
+      "page": false
+    }
+  ],
+  "lookupMax": 40
+}

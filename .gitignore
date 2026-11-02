@@ -14,3 +14,9 @@ dist/
 # editor
 .vscode/
 .idea/
+
+# builder
+.astro/
+.vercel/
+seo-report/
+.quickbuild-levels.json

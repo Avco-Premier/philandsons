@@ -1,0 +1,341 @@
+{
+  "source": "playbook estimate (dense-metro tier, assets/keyword-playbook.json)",
+  "location": "Queens, NY",
+  "pages": {
+    "home": {
+      "primary": "pizza flushing",
+      "secondary": [
+        "best italian restaurant in queens",
+        "best italian restaurant queens",
+        "italian restaurant pomonok",
+        "italian restaurant flushing",
+        "italian restaurant murray hill"
+      ],
+      "options": [
+        {
+          "query": "italian restaurant queens",
+          "volume": 1300
+        },
+        {
+          "query": "italian restaurant pomonok",
+          "volume": 680
+        },
+        {
+          "query": "italian restaurant flushing",
+          "volume": 680
+        },
+        {
+          "query": "italian restaurant murray hill",
+          "volume": 680
+        },
+        {
+          "query": "italian restaurant flushing chinatown",
+          "volume": 680
+        },
+        {
+          "query": "dinner queens",
+          "volume": 140
+        }
+      ],
+      "decide": "Confirm primary = what the business is (e.g. 'breakfast asheville' for a breakfast cafe), not just the top volume.",
+      "decision": "pizza flushing: matches what Phil & Sons on Main Italian restaurant and pizzeria is (pizza restaurant); unknown/mo (playbook estimate). Picked automatically by quickbuild."
+    },
+    "menu": {
+      "primary": "phil & sons on main italian restaurant and pizzeria menu",
+      "secondary": []
+    }
+  },
+  "dishes": [
+    {
+      "term": "pasta",
+      "item": "",
+      "slug": "pasta",
+      "primary": "pasta queens",
+      "secondary": [
+        "best pasta queens",
+        "best pasta in queens",
+        "pasta flushing",
+        "pasta murray hill"
+      ],
+      "volume": 75,
+      "status": "no-page",
+      "decision": "no page: estimate 75/mo (< 30). Covered on /menu/ and the homepage."
+    },
+    {
+      "term": "meat lovers pizza large",
+      "item": "MEAT LOVERS PIZZA (LARGE)",
+      "slug": "meat-lovers-pizza-large",
+      "primary": "meat lovers pizza large queens",
+      "secondary": [
+        "best meat lovers pizza large queens",
+        "best meat lovers pizza large in queens",
+        "meat lovers pizza large flushing",
+        "meat lovers pizza large murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: quickbuild doesn't write dish pages (they need 600+ words of real substance from the client); estimate None/mo. Covered on /menu/ and the homepage. Ask the builder for a dish page if it matters."
+    },
+    {
+      "term": "fried calamaris",
+      "item": "FRIED CALAMARI",
+      "slug": "fried-calamaris",
+      "primary": "fried calamaris queens",
+      "secondary": [
+        "best fried calamaris queens",
+        "best fried calamaris in queens",
+        "fried calamaris flushing",
+        "fried calamaris murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: quickbuild doesn't write dish pages (they need 600+ words of real substance from the client); estimate None/mo. Covered on /menu/ and the homepage. Ask the builder for a dish page if it matters."
+    },
+    {
+      "term": "mozzarella sticks",
+      "item": "MOZZARELLA STICKS",
+      "slug": "mozzarella-sticks",
+      "primary": "mozzarella sticks queens",
+      "secondary": [
+        "best mozzarella sticks queens",
+        "best mozzarella sticks in queens",
+        "mozzarella sticks flushing",
+        "mozzarella sticks murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: quickbuild doesn't write dish pages (they need 600+ words of real substance from the client); estimate None/mo. Covered on /menu/ and the homepage. Ask the builder for a dish page if it matters."
+    },
+    {
+      "term": "baked zitis",
+      "item": "BAKED ZITI",
+      "slug": "baked-zitis",
+      "primary": "baked zitis queens",
+      "secondary": [
+        "best baked zitis queens",
+        "best baked zitis in queens",
+        "baked zitis flushing",
+        "baked zitis murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: quickbuild doesn't write dish pages (they need 600+ words of real substance from the client); estimate None/mo. Covered on /menu/ and the homepage. Ask the builder for a dish page if it matters."
+    },
+    {
+      "term": "weekend pasta",
+      "item": "",
+      "slug": "weekend-pasta",
+      "primary": "weekend pasta queens",
+      "secondary": [
+        "best weekend pasta queens",
+        "best weekend pasta in queens",
+        "weekend pasta flushing",
+        "weekend pasta murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: estimate None/mo (< 30). Covered on /menu/ and the homepage."
+    },
+    {
+      "term": "salads",
+      "item": "",
+      "slug": "salads",
+      "primary": "salads queens",
+      "secondary": [
+        "best salads queens",
+        "best salads in queens",
+        "salads flushing",
+        "salads murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: estimate None/mo (< 30). Covered on /menu/ and the homepage."
+    },
+    {
+      "term": "soups",
+      "item": "",
+      "slug": "soups",
+      "primary": "soups queens",
+      "secondary": [
+        "best soups queens",
+        "best soups in queens",
+        "soups flushing",
+        "soups murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: estimate None/mo (< 30). Covered on /menu/ and the homepage."
+    },
+    {
+      "term": "appetizers",
+      "item": "",
+      "slug": "appetizers",
+      "primary": "appetizers queens",
+      "secondary": [
+        "best appetizers queens",
+        "best appetizers in queens",
+        "appetizers flushing",
+        "appetizers murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: estimate None/mo (< 30). Covered on /menu/ and the homepage."
+    },
+    {
+      "term": "burgers",
+      "item": "",
+      "slug": "burgers",
+      "primary": "burgers queens",
+      "secondary": [
+        "best burgers queens",
+        "best burgers in queens",
+        "burgers flushing",
+        "burgers murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: estimate None/mo (< 30). Covered on /menu/ and the homepage."
+    },
+    {
+      "term": "hot heroes",
+      "item": "",
+      "slug": "hot-heroes",
+      "primary": "hot heroes queens",
+      "secondary": [
+        "best hot heroes queens",
+        "best hot heroes in queens",
+        "hot heroes flushing",
+        "hot heroes murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: estimate None/mo (< 30). Covered on /menu/ and the homepage."
+    },
+    {
+      "term": "cold heroes",
+      "item": "",
+      "slug": "cold-heroes",
+      "primary": "cold heroes queens",
+      "secondary": [
+        "best cold heroes queens",
+        "best cold heroes in queens",
+        "cold heroes flushing",
+        "cold heroes murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: estimate None/mo (< 30). Covered on /menu/ and the homepage."
+    },
+    {
+      "term": "from the grill",
+      "item": "",
+      "slug": "from-the-grill",
+      "primary": "from the grill queens",
+      "secondary": [
+        "best from the grill queens",
+        "best from the grill in queens",
+        "from the grill flushing",
+        "from the grill murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: estimate None/mo (< 30). Covered on /menu/ and the homepage."
+    },
+    {
+      "term": "calzone rolls",
+      "item": "",
+      "slug": "calzone-rolls",
+      "primary": "calzone rolls queens",
+      "secondary": [
+        "best calzone rolls queens",
+        "best calzone rolls in queens",
+        "calzone rolls flushing",
+        "calzone rolls murray hill"
+      ],
+      "volume": null,
+      "status": "no-page",
+      "decision": "no page: estimate None/mo (< 30). Covered on /menu/ and the homepage."
+    }
+  ],
+  "areas": [
+    {
+      "name": "Flushing",
+      "slug": "flushing",
+      "volume": 810,
+      "primary": "italian restaurant flushing",
+      "status": "section-only",
+      "decision": "no page: listed in the service-area table, areaServed and llms.txt."
+    },
+    {
+      "name": "Flushing Chinatown",
+      "slug": "flushing-chinatown",
+      "volume": 810,
+      "primary": "italian restaurant flushing chinatown",
+      "status": "section-only",
+      "decision": "no page: listed in the service-area table, areaServed and llms.txt."
+    },
+    {
+      "name": "Murray Hill",
+      "slug": "murray-hill",
+      "volume": 810,
+      "primary": "italian restaurant murray hill",
+      "status": "section-only",
+      "decision": "no page: listed in the service-area table, areaServed and llms.txt."
+    },
+    {
+      "name": "Pomonok",
+      "slug": "pomonok",
+      "volume": 810,
+      "primary": "italian restaurant pomonok",
+      "status": "section-only",
+      "decision": "no page: listed in the service-area table, areaServed and llms.txt."
+    }
+  ],
+  "nearMe": [
+    {
+      "query": "italian restaurant near me",
+      "volume": 126000
+    },
+    {
+      "query": "dinner near me",
+      "volume": 13570
+    },
+    {
+      "query": "lunch near me",
+      "volume": 3880
+    },
+    {
+      "query": "best italian restaurant near me",
+      "volume": 1790
+    },
+    {
+      "query": "european restaurant near me",
+      "volume": 620
+    },
+    {
+      "query": "pizza restaurant near me",
+      "volume": 410
+    },
+    {
+      "query": "burgers near me",
+      "volume": 260
+    },
+    {
+      "query": "best burgers near me",
+      "volume": 260
+    },
+    {
+      "query": "best dinner near me",
+      "volume": 190
+    },
+    {
+      "query": "weekend pasta near me",
+      "volume": 100
+    }
+  ],
+  "notes": [
+    "Dish/area pages marked 'candidate' still need the page gate in references/local-seo.md §3 (real substance from intake). Max 5 dish pages, 4 area pages.",
+    "'near me' queries are won through the Google Business Profile and relevance, never by writing 'near me' on pages.",
+    "Targets chosen automatically by quickbuild.py from the offline playbook."
+  ]
+}

@@ -1,0 +1,1953 @@
+{
+  "subcategories": [
+    {
+      "name": "Lunch Specials",
+      "description": "all meals come with a can of soda or 16oz water ",
+      "items": [
+        {
+          "name": "2 Slices of Cheese pizza",
+          "description": "2 Slices and a drink",
+          "price": "8.00",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/fc4ffa8b-8524-4f69-99d9-b0f3247499ce.png",
+          "modifications": []
+        },
+        {
+          "name": "Baked Ziti",
+          "description": "",
+          "price": "9.95",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/d3209ff0-ae46-45dd-8770-90e649b23ca9.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Penne alla Vodka",
+          "description": "",
+          "price": "11.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/7c1e6b15-f290-49ab-8891-9f8fbcb0216d.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Penne With Meat Sauce",
+          "description": "",
+          "price": "11.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1e12d083-0822-40e1-8e08-f862ccd8db54.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Penne with sautéed Broccoli",
+          "description": "",
+          "price": "11.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/3c0815d2-38af-4e37-8664-dcbc648e1f73.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Penne with Sautéed Spinach",
+          "description": "",
+          "price": "11.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/596cc357-98eb-4e42-90f0-8ff3c5942988.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Parmigiana With Penne",
+          "description": "",
+          "price": "14.95",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/d57b81fb-e1b2-4c1f-9204-debb6b555100.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Eggplant Parmigiana With Penne",
+          "description": "",
+          "price": "12.95",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/797192dc-578f-4fe6-8208-235842a94d1d.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Shrimp Parmigiana With Penne",
+          "description": "",
+          "price": "16.95",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/d854f9b3-689a-4e36-b9e7-9c00554683c4.png",
+          "modifications": []
+        },
+        {
+          "name": "Shrimp marinara With Penne",
+          "description": "",
+          "price": "16.95",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/40e46cdc-7b33-4800-ab99-a9086e25a69c.png",
+          "modifications": []
+        },
+        {
+          "name": "Cheese Burger with French fries",
+          "description": "",
+          "price": "11.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/941ec017-c975-40ae-a205-f3e20f4dadd5.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Burger with French fries",
+          "description": "",
+          "price": "10.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/941ec017-c975-40ae-a205-f3e20f4dadd5.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Grilled Chicken on pita with French fries",
+          "description": "",
+          "price": "10.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1ac05112-d039-44ed-ab71-f1f2f9801cad.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Gyro with French fries",
+          "description": "",
+          "price": "10.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/21164cbb-774c-4bc4-991a-56f12e0df5df.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "5 Colossal Fried Shrimp With French fries",
+          "description": "",
+          "price": "14.95",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/ce110bc5-259a-430c-bd50-12336786f3f0.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "5 Wings with French fries",
+          "description": "",
+          "price": "10.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/5bf16f25-645c-4c59-a022-4073b7f3a75d.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "3 Chicken Fingers with French fries",
+          "description": "",
+          "price": "9.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/08b5def1-e0c5-4cf9-8dc0-7a2634d0ed13.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Any Hero Lunch Special With Can of Soda or 16oz water",
+          "description": "",
+          "price": "10.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/562e3eab-b9c7-4e9e-9c87-df9ba49b05d4.jpeg",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Weekend Pasta Special",
+      "description": "Pick any 2 Pastas Plus comes with 6 Garlic Knots Or 6 zeppoles",
+      "items": [
+        {
+          "name": "Weekend Pasta Special",
+          "description": "Pick 2 Pasta dishes comes with 6 Garlic Knots or 6 Zeppoles",
+          "price": "20.00",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/c959b67e-0480-4230-81d5-7f2910e17f35.jpeg",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Salads",
+      "description": "",
+      "items": [
+        {
+          "name": "Hosue Salad",
+          "description": "Mixed greens, tomatoes, cucumbers, carrots, red onions & olives.",
+          "price": "8.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/b02f8868-8e38-47f2-868a-8f9a8bdfab6f.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Caesar Salad",
+          "description": "Romaine lettuce, croutons, Parmigiano-Reggiano; homemade Caesar dressing.",
+          "price": "8.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1656fa79-fb48-4bcb-9bd6-cd774b95cd15.png",
+          "modifications": []
+        },
+        {
+          "name": "Greek Salad",
+          "description": "Mixed greens, tomato, cucumbers, fresh red peppers, red onions, olives; feta cheese.",
+          "price": "8.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/75423649-4d72-42b0-9346-eca6cc8fa9f4.png",
+          "modifications": []
+        },
+        {
+          "name": "Chef Salad",
+          "description": "Mixed greens, ham, salami, American cheese, tomatoes, cucumbers, red onions, carrots, pepperoni, olives; hard-boiled egg.",
+          "price": "15.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/5ee86ce1-53c2-469e-af55-cfae765600d5.png",
+          "modifications": []
+        },
+        {
+          "name": "Cold Antipasto",
+          "description": "Mixed greens, tomatoes, cucumbers, olives, marinated mushrooms, artichoke hearts, roasted red peppers, ham, salami; provolone.",
+          "price": "13.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/4945c8b7-5873-499f-9535-e6b52ae747dc.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Tuna Salad",
+          "description": "Mixed greens, tomatoes, cucumbers, olives; red onions.",
+          "price": "13.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/49c847e8-b0b3-467c-b8e1-09ec9c4f2f9b.png",
+          "modifications": []
+        },
+        {
+          "name": "Kristen Salad",
+          "description": "Chopped mixed greens, tomatoes, red onions, cucumbers; olives, topped with fried chicken cutlet; shredded mozzarella; onions.",
+          "price": "15.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Buffalo Chicken Salad",
+          "description": "Mixed greens, tomatoes, carrots, red onions, cucumbers; spicy chicken cutlets with blue cheese dressing.",
+          "price": "15.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/d7989b4d-b9d5-419d-85ae-7c8d21e95e04.png",
+          "modifications": []
+        },
+        {
+          "name": "Capricciosa Salad",
+          "description": "Mixed greens, cucumbers, tomatoes, red onions, honey glazed walnuts, craisins, grilled chicken, shredded mozzarella topped with honey mustard dressing.",
+          "price": "15.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/fad7ba9e-031d-4279-aef3-84d0e036ada5.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Family Salad",
+          "description": "Mixed greens, honey glazed walnuts, craisins, feta cheese, red onions, tomatoes, cucumbers, carrots; olives.",
+          "price": "14.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Gyro Salad",
+          "description": "Gyro meat, feta cheese, mixed greens, tomatoes, cucumbers, olives, red onion, with a homemade creamy Greek dressing.",
+          "price": "16.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/ea3bf723-b26e-4349-b4aa-2f7160c48032.png",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Soups",
+      "description": "",
+      "items": [
+        {
+          "name": "Chicken Soup (16 oz.)",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/31a07ced-3e07-4fa9-afb5-eb2914d221d5.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Lintil Soup (16 oz.)",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/a13b2f10-9036-495c-95ec-faa310c942fc.webp",
+          "modifications": []
+        },
+        {
+          "name": "Pasta Fagioli Tortellini (16 oz.)",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/9b85cd84-a281-4cdf-97a8-8f11a8972c24.png",
+          "modifications": []
+        },
+        {
+          "name": "Spinach Egg Drop Soup (16 oz.)",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/7a580636-27f1-49e8-9c62-6c12a13e96a8.png",
+          "modifications": []
+        },
+        {
+          "name": "Seafood Bisque (16 oz.)",
+          "description": "Available Friday & Saturday only",
+          "price": "8.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/e0c691f1-d042-4bd9-bf23-c20109dd6625.webp",
+          "modifications": []
+        },
+        {
+          "name": "Tortellini Spinach Egg Drop (16 oz.)",
+          "description": "",
+          "price": "8.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/81e09d90-2d64-487e-8867-7da89ed3980b.png",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Appetizers",
+      "description": "",
+      "items": [
+        {
+          "name": "Hot Antipasto",
+          "description": "Eggplant rollatini, baked clams, stuffed mushrooms shrimp oreganata.",
+          "price": "12.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Baked Clams",
+          "description": "Baked fresh clams on a half shell, topped with seasoned breadcrumbs.",
+          "price": "11.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/4f9113bd-03e4-4bda-815f-a20fb233f193.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Fried Calamari",
+          "description": "Lightly breaded; fried to golden perfection.",
+          "price": "14.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1482d210-5ee8-44d1-bd16-b21573d66308.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Stuffed Mushroom",
+          "description": "Vegetable stuffing, a touch of garlic, marinara, fresh mozzarella.",
+          "price": "11.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/57f48da8-47e1-40f0-8218-84d1385d1d5b.png",
+          "modifications": []
+        },
+        {
+          "name": "Mozzarella Sticks",
+          "description": "Hand - sliced mozzarella lightly breaded & fried to golden perfection.",
+          "price": "8.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1ab148bc-9cd5-4bba-b4a2-b2df466c3a3e.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Pinwheels",
+          "description": "Stuffed with broccoli, pepperoni or spinach; mozzarella.",
+          "price": "3.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/fc1d854a-4ea4-446d-88ab-3adb1a4759c3.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "5 Chicken Fingers",
+          "description": "",
+          "price": "10.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/be605080-2a0f-4297-9b19-d896a70438fe.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "5 Chicken Fingers with French Fries",
+          "description": "",
+          "price": "12.75",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1e0ff51e-d51d-433f-a13e-ddbb339a2652.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Buffalo Wings",
+          "description": "",
+          "price": "10.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/836900db-c466-4dc2-8788-9b0d368fc373.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Mozzarella Caprese",
+          "description": "Fresh mozzarella, roasted peppers, tomatoes & basil topped with balsamic vinaigrette.",
+          "price": "11.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/9655be95-5c96-4d59-a04a-6a3100710d7e.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Bar Pie",
+          "description": "Extra thin crust with shredded mozzarella; tomato sauce.",
+          "price": "9.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/894f9022-0fc3-4fe3-a828-126e8c71bc68.png",
+          "modifications": []
+        },
+        {
+          "name": "Bruschetta",
+          "description": "",
+          "price": "9.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/2aec7d76-9bf5-49fd-b75a-cc4cd83f71be.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Garlic Bread",
+          "description": "",
+          "price": "5.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/5b7c89f7-1c41-4e68-8b6f-b12db2f6b5fc.png",
+          "modifications": []
+        },
+        {
+          "name": "Garlic Bread with Cheese",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/8bde17be-e3e0-448f-8a8b-5c36fff95d12.png",
+          "modifications": []
+        },
+        {
+          "name": "Garlic Knots (3)",
+          "description": "",
+          "price": "2.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/2c36dde6-6916-44c2-af01-1e0c01220cf0.jpeg",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "description": "",
+      "items": [
+        {
+          "name": "Hamburger",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/3cfbfffd-a584-4c80-87f1-e29908ed3ab1.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Hamburger (Deluxe)",
+          "description": "(French Fries, Onion Rings, Lettuce & Tomatoes)",
+          "price": "12.45",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/3f5fe96a-b897-43b6-8a1b-44766d2479ea.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Cheeseburger",
+          "description": "",
+          "price": "8.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/ed0443c6-2efc-4baf-af0f-5d54279ba7ea.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Cheeseburger (Deluxe)",
+          "description": "(French Fries, Onion Rings, Lettuce & Tomatoes)",
+          "price": "13.45",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/aec711e6-acd8-41a4-90b7-ff17293cedfa.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Pizza Burger",
+          "description": "Topped with tomato sauce; mozzarella",
+          "price": "9.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/8829d1c3-6596-4579-aa79-69ae1a39e714.png",
+          "modifications": []
+        },
+        {
+          "name": "Pizza Burger (Deluxe)",
+          "description": "Topped with tomato sauce &amp; mozzarella. (French Fries, Onion Rings, Lettuce & Tomatoes)",
+          "price": "14.45",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/95496c34-03ac-46b5-b7f3-8d474b779f33.png",
+          "modifications": []
+        },
+        {
+          "name": "Italian Burger",
+          "description": "Topped with tomato sauce, fresh mozzarella &amp; roasted peppers.",
+          "price": "9.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Italian Burger (Deluxe)",
+          "description": "Topped with tomato sauce, fresh mozzarella &amp; roasted peppers. (French Fries, Onion Rings, Lettuce &amp; Tomatoes)",
+          "price": "14.45",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Breakfast Burger",
+          "description": "Soft fried egg, bacon Topped with American cheese.",
+          "price": "9.20",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "Breakfast Burger (Deluxe)",
+          "description": "Soft Fried Egg & bacon Topped American cheese. (French Fries, Onion Rings, Lettuce &amp; Tomatoes)",
+          "price": "14.45",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "BBQ Burger",
+          "description": "Sauteed onions, bacon, BBQ sauce, American cheese.",
+          "price": "9.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1218891b-0097-4a89-8c5a-3570bbe7f675.png",
+          "modifications": []
+        },
+        {
+          "name": "BBQ Burger (Deluxe)",
+          "description": "Sauteed onions, bacon, BBQ sauce, American cheese. (French Fries, Onion Rings, Lettuce &amp; Tomatoes)",
+          "price": "14.45",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/8233c411-8689-428e-91fa-416423546fa1.png",
+          "modifications": []
+        },
+        {
+          "name": "Greek Burger",
+          "description": "Topped with red onions, fresh tomatoes, olives, feta cheese &amp; roasted peppers.",
+          "price": "9.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/88cb43b0-0e4e-44a7-a90e-1ec20fe44926.png",
+          "modifications": []
+        },
+        {
+          "name": "Greek Burger (Deluxe)",
+          "description": "Topped with red onions, fresh tomatoes, olives, feta cheese &amp; roasted peppers. (French Fries, Onion Rings, Lettuce &amp; Tomatoes)",
+          "price": "14.45",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1e0ff814-760d-4173-a326-5f47d0127cd0.png",
+          "modifications": []
+        },
+        {
+          "name": "Texas Burger",
+          "description": "Topped with BBQ sauce, grilled onions, peppers, spicy red pepper &amp; cheddar cheese.",
+          "price": "9.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/7280b7cf-2790-470c-bb57-58227c0aa9e2.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Texas Burger (Deluxe)",
+          "description": "Topped with BBQ sauce, grilled onions, peppers, spicy red pepper &amp; cheddar cheese. (French Fries, Onion Rings, Lettuce & Tomatoes)",
+          "price": "14.45",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/ca96ad40-0a94-4086-8d87-6e6e0ee37033.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Provolone Burger",
+          "description": "Topped with sauteed mushrooms, onions & provolone cheese.",
+          "price": "9.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/93b7521d-b635-4c26-a2b3-202403cb3f9d.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Provolone Burger (Deluxe)",
+          "description": "Topped with sauteed mushrooms, onions & provolone cheese. (French Fries, Onion Rings, Lettuce & Tomatoes)",
+          "price": "14.45",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/116fe636-b771-4acf-9ee9-52b0ce8febea.jpeg",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Hot Heroes",
+      "description": "",
+      "items": [
+        {
+          "name": "Eggplant Hero",
+          "description": "",
+          "price": "9.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/dd30b5b3-5263-430d-83f5-d60b26392911.png",
+          "modifications": []
+        },
+        {
+          "name": "Sausage Hero",
+          "description": "",
+          "price": "10.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/ca65180c-88b6-4d2e-b812-ec8f72c55d16.png",
+          "modifications": []
+        },
+        {
+          "name": "Meatball Hero",
+          "description": "",
+          "price": "10.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/c3765c1f-b8f3-4d18-9b32-65499efaa48d.png",
+          "modifications": []
+        },
+        {
+          "name": "Potato & Egg Hero",
+          "description": "",
+          "price": "9.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/79e00e22-8592-4969-b35d-338aeeb88055.png",
+          "modifications": []
+        },
+        {
+          "name": "Pepper & Egg Hero",
+          "description": "",
+          "price": "9.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/a522144c-ddae-4813-93b0-6feb7109edfd.png",
+          "modifications": []
+        },
+        {
+          "name": "Sausage & Egg Hero",
+          "description": "",
+          "price": "9.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Chicken Cutlet Hero",
+          "description": "Grilled or Fried",
+          "price": "10.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/b9557519-838b-479d-aba7-8373d84171b3.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Sausage & Sauteed Peppers Hero",
+          "description": "",
+          "price": "10.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/d4dedb2c-187b-4750-9cc5-56a68696f917.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Meatball & Sauteed Peppers Hero",
+          "description": "",
+          "price": "10.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/4087cefb-e3c2-41d6-80a1-c3479be5860e.png",
+          "modifications": []
+        },
+        {
+          "name": "Chicken & Peppers Hero",
+          "description": "Grilled or Fried",
+          "price": "12.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Sausage, Peppers & Egg Hero",
+          "description": "",
+          "price": "11.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Shrimp Hero",
+          "description": "",
+          "price": "13.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/00eb0d89-34ed-49b7-aeec-fecb1d3e4f47.png",
+          "modifications": []
+        },
+        {
+          "name": "Sausage & Broccoli Rabe Hero",
+          "description": "",
+          "price": "12.50",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "Grilled Chicken & Broccoli Rabe Hero",
+          "description": "",
+          "price": "13.50",
+          "imageUrl": null,
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Cold Heroes",
+      "description": "",
+      "items": [
+        {
+          "name": "Italian Hoagie",
+          "description": "Ham, salami, provolone, lettuce, tomato &amp; choice of dressing.",
+          "price": "10.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/7eb5b31f-acde-4d04-ab83-2efa0cd55869.png",
+          "modifications": []
+        },
+        {
+          "name": "Tuna Salad Hero",
+          "description": "Topped with lettuce &amp; tomato.",
+          "price": "10.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/41c671d4-83ae-44fe-b0e7-ebb072cb1d93.png",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Club Hero",
+          "description": "Grilled or Fried. Topped with lettuce, tomato &amp; choice of dressing.",
+          "price": "12.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/218f58e8-19fe-460e-a751-4f51fb14cea0.png",
+          "modifications": []
+        },
+        {
+          "name": "Caesar Chicken Hero",
+          "description": "Grilled or Fried, Fried chicken cutlet, romaine lettuce, Parmesan cheese &amp; Caesar dressing.",
+          "price": "12.50",
+          "imageUrl": null,
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Fresh Homemade Panini & Wraps",
+      "description": "",
+      "items": [
+        {
+          "name": "Panini di Maria Panini/Wrap",
+          "description": "Fried or grilled chicken, sauteed broccoli rabe, roasted peppers &amp; fresh mozzarella topped with balsamic vinaigrette on homemade bread.",
+          "price": "10.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/c2d4b146-da97-4065-8bf4-89d31d7bcc98.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Caesar Panini/Wrap",
+          "description": "Freshly grilled chicken, romaine lettuce, Parmesan cheese &amp; our special Caesar dressing.",
+          "price": "9.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Buffalo Chicken Panini/Wrap",
+          "description": "Freshly grilled chicken seasoned with spicy Buffalo sauce, romaine lettuce &amp; chunky blue cheese dressing.",
+          "price": "9.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Fresco Chicken Panini/Wrap",
+          "description": "Freshly grilled or fried chicken, roasted peppers, tomato, lettuce, basil &amp; fresh mozzarella.",
+          "price": "9.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Tuna Panini / Wrap / Pita",
+          "description": "Lettuce &amp; tomato",
+          "price": "9.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Veggie Supreme Panini/Wrap",
+          "description": "Sauteed spinach, mushrooms, broccoli, eggplant &amp; melted mozzarella.",
+          "price": "9.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Honey Mustard Chicken Panini/Wrap",
+          "description": "Freshly grilled chicken, romaine lettuce, tomato, onion &amp; honey Dijon mustard.",
+          "price": "9.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Chicken Club Panini/Wrap",
+          "description": "Chicken fingers, ham, bacon, lettuce, tomatoes with creamy aioli.",
+          "price": "12.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "The Gyro Wrap",
+          "description": "Gyro meat, French fries, lettuce, tomatoes &amp; feta cheese with a homemade creamy Greek dressing.",
+          "price": "11.20",
+          "imageUrl": null,
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "From the Grill",
+      "description": "",
+      "items": [
+        {
+          "name": "Gyro",
+          "description": "",
+          "price": "8.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/178ded5a-5b98-4499-acfa-567bb04a5e8b.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Gyro Deluxe",
+          "description": "(French Fries, Onion Rings, Lettuce &amp; Tomatoes)",
+          "price": "13.45",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/354664cd-28f3-417c-9443-5ed2b8d5558f.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Grilled Chicken on a Pita",
+          "description": "",
+          "price": "8.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/d761dd3a-34c4-4e92-a511-ea89ea6ed0bc.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Grilled Chicken on a Pita Deluxe",
+          "description": "(French Fries, Onion Rings, Lettuce &amp; Tomatoes)",
+          "price": "13.45",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1e37dfbd-a373-4c85-9dc3-cc9263cde5f4.jpeg",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "description": "",
+      "items": [
+        {
+          "name": "Pasta with Tomato Sauce",
+          "description": "",
+          "price": "11.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Pasta with Meat Sauce",
+          "description": "",
+          "price": "16.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/99a0dc6b-7d30-4241-b6d6-47923944c513.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Pasta with Fresh Garlic & Olive Oil Sauce",
+          "description": "",
+          "price": "14.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/93351ad3-93c4-417a-a9b3-02f3591dfb1d.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Pasta with Meatballs",
+          "description": "",
+          "price": "17.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/f32c50a9-7952-4d3e-a9f1-c6b02b7055fa.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Pasta with Marinara Sauce",
+          "description": "",
+          "price": "13.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Pasta with Butter Sauce",
+          "description": "",
+          "price": "12.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Pasta with Sweet Italian Sausage",
+          "description": "",
+          "price": "17.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/f8502abb-5df8-47b7-88b9-ab09369f6148.png",
+          "modifications": []
+        },
+        {
+          "name": "Linguine Con Vongole",
+          "description": "Red or white clam sauce",
+          "price": "20.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/34ab58aa-5516-4d10-af4b-a98c4982f20e.png",
+          "modifications": []
+        },
+        {
+          "name": "Fettuccine Alfredo",
+          "description": "",
+          "price": "17.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/8c41535d-9cc6-41b4-8e1c-05f8777751d8.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Tortellini Alfredo",
+          "description": "",
+          "price": "18.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/d84e5f49-c364-43a8-bb9a-c1e2ec539c92.png",
+          "modifications": []
+        },
+        {
+          "name": "Spaghetti Carbonara",
+          "description": "",
+          "price": "17.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/b070e8f4-bf5d-451d-99ef-74d0572e2c63.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Spaghetti Bolognese",
+          "description": "",
+          "price": "18.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1cc48cbd-4798-4bbe-963b-02da784c8f08.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Rigatoni alla Vodka",
+          "description": "",
+          "price": "16.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1ec9c516-d9b7-463b-9e53-4fb4c957cc88.png",
+          "modifications": []
+        },
+        {
+          "name": "Baked Ziti",
+          "description": "Penne topped with homemade tomato sauce &amp; mozzarella.",
+          "price": "13.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/62ff620d-85d1-466b-abcf-27df3347afa5.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Baked Ziti Sicilian Style",
+          "description": "Penne, ricotta, eggplant topped with homemade tomato sauce &amp; mozzarella.",
+          "price": "17.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/edd2f2fe-60f7-4630-a75d-9908782c0dd1.png",
+          "modifications": []
+        },
+        {
+          "name": "Ziti with Sauteed Broccoli",
+          "description": "",
+          "price": "15.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/f15b8e1b-fd19-42de-a57a-169fd4e032db.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Ziti with Sauteed Spinach",
+          "description": "",
+          "price": "15.50",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "Baked Ravioli",
+          "description": "Pasta stuffed with ricotta, topped with homemade tomato sauce &amp; mozzarella.",
+          "price": "13.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Homemade Meat Lasagna",
+          "description": "Stuffed with ground beef, ricotta &amp; mozzarella. &nbsp;Topped with tomato sauce &amp; mozzarella&nbsp;",
+          "price": "16.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/fce60d2e-619b-4645-959b-665a63365843.jpeg",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Entrees",
+      "description": "",
+      "items": [
+        {
+          "name": "Eggplant Parmigiana",
+          "description": "Served with tomato sauce",
+          "price": "18.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/8f4621be-3ea6-4020-8acf-99ace8f6de6b.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Eggplant Rollatini",
+          "description": "Fresh battered, rolled with seasoned ricotta in a sauce &amp; mozzarella.",
+          "price": "20.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Eggplant Lasagna ( Vegetarian )",
+          "description": "Breaded Eggplant stacked with seasoned ricotta, Provolone & Mozzarella.",
+          "price": "20.50",
+          "imageUrl": "",
+          "modifications": [],
+          "diets": [
+            "vegetarian"
+          ]
+        },
+        {
+          "name": "Meatball & Sauteed Peppers",
+          "description": "",
+          "price": "18.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Sausage & Sauteed Peppers",
+          "description": "",
+          "price": "18.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Meatball & Sauteed Broccoli Rabe",
+          "description": "Served in an extra virgin olive oil &amp; fresh garlic sauce with broccoli rabe.",
+          "price": "20.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Sausage & Sauteed Broccoli Rabe",
+          "description": "Served in an extra virgin olive oil &amp; fresh garlic sauce with broccoli rabe.&nbsp;",
+          "price": "20.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Grilled Chicken Parmigiana",
+          "description": "Served with tomato sauce",
+          "price": "19.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Grilled Chicken & Broccoli Rabe",
+          "description": "Served in an extra virgin olive oil &amp; fresh garlic sauce",
+          "price": "22.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/f2f52ebe-ef56-496e-b6a2-78eb0f35929b.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Grilled Balsamic Chicken",
+          "description": "Grilled chicken breast marinated in balsamic demi glaze",
+          "price": "20.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Chicken Fra Diavolo",
+          "description": "Sauteed in a spicy marinara sauce",
+          "price": "20.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Chicken Milanese",
+          "description": "Pan-fried chicken cutlet served with fresh lemon wedge on the side.",
+          "price": "17.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Chicken Parmigiana",
+          "description": "Served with tomato sauce, chicken &amp; topped with mozzarella cheese.",
+          "price": "19.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/fa94cf7a-7fb1-4ab2-a08f-15abb0957537.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Bruschetta",
+          "description": "Chicken, chopped tomatoes, extra virgin olive oil, basil &amp; red onion.",
+          "price": "20.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/0d7f1c41-eae5-44e4-a986-58826dc90066.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Marsala",
+          "description": "Sauteed with a Marsala wine sauce &amp; chicken. Add fresh mushrooms for an extra charge.",
+          "price": "20.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/b4501867-0e91-4b89-80af-142380ec295b.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Francese",
+          "description": "Egg battered chicken topped with a lemon &amp; white wine sauce.",
+          "price": "20.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/a05a4999-b736-486c-a851-4e1865e3034f.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Sauteed Peppers",
+          "description": "Served in a tomato sauce",
+          "price": "20.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Chicken Alfredo",
+          "description": "Served in a White Cream Sauce",
+          "price": "20.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Chicken alla Vodka",
+          "description": "",
+          "price": "20.50",
+          "imageUrl": null,
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Calzone & Rolls",
+      "description": "",
+      "items": [
+        {
+          "name": "Cheese Calzone",
+          "description": "Stuffed with Ricotta &amp; Mozzarella, baked until golden brown.",
+          "price": "8.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/7b7a8843-dd7a-4a5f-a7db-b427697263dd.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Stromboli",
+          "description": "Ham, salami, pepperoni, provolone &amp; mozzarella",
+          "price": "4.95",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/62de02b2-101a-4208-8719-c22f7a3e1ef6.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Sausage, Pepper & Cheese Roll",
+          "description": "",
+          "price": "8.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/b47dd460-6f66-46ba-a170-add27a2c9e99.png",
+          "modifications": []
+        },
+        {
+          "name": "Sauteed Spinach & Cheese Roll",
+          "description": "",
+          "price": "8.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/088b09c3-7439-4bb9-a95a-fac3d45a8856.png",
+          "modifications": []
+        },
+        {
+          "name": "Sauteed Broccoli & Cheese Roll",
+          "description": "",
+          "price": "8.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/21c4eff2-f676-434a-abc4-bf67948ea79f.png",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Parmigiana Roll",
+          "description": "",
+          "price": "8.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/f141a6fc-272b-4516-a1f0-81395806051a.png",
+          "modifications": []
+        },
+        {
+          "name": "Buffalo Chicken & Cheese Roll",
+          "description": "",
+          "price": "8.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/65da13c4-135a-4bcf-bdae-e0b64fdb9697.png",
+          "modifications": []
+        },
+        {
+          "name": "Italian Hot Dog & Cheese Roll",
+          "description": "Oven roasted potatoes, peppers And onions with Mozzarella Cheese ",
+          "price": "4.75",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/39efc6fd-6ddf-4c46-95c6-ddd81a8f77bf.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Beef Patties",
+          "description": "",
+          "price": "3.75",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/c9d18723-bb11-4fc5-9dcd-33ded59d9d49.png",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Lunch Time Menu",
+      "description": "",
+      "items": [
+        {
+          "name": "Lunch Time 1",
+          "description": "Pick 1 Salad or Soup & Half a Hero",
+          "price": "15.00",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "Elisa's Lunch",
+          "description": "1 Salad & Soup",
+          "price": "11.00",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "3 Hero Combo",
+          "description": "Comes with 1) Meatball Parm Hero\nComes with 1) Eggplant Parm Hero\nComes with 1) Chicken Parm Hero",
+          "price": "31.00",
+          "imageUrl": "",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Pizza Night Special",
+      "description": "",
+      "items": [
+        {
+          "name": "Pizza Night Special",
+          "description": "1 Cheese pie, 6 Garlic Knots, 1 Large Salad, &nbsp;6 zeppoles, 2 Liter soda",
+          "price": "40.00",
+          "imageUrl": "",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Pizza",
+      "description": "",
+      "items": [
+        {
+          "name": "Cheese Neapolitan Pizza",
+          "description": "",
+          "price": "20.45",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/0b1f903f-5b03-42ea-a74d-e4cab377dd22.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Pizzeta Personal Pizza",
+          "description": "",
+          "price": "11.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/ad546515-e833-4a64-b83c-32f364462752.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Cheese Sicilian Pizza Thick Crust",
+          "description": "",
+          "price": "22.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/c7b11b73-0193-489a-b1a2-064609ca0740.png",
+          "modifications": []
+        },
+        {
+          "name": "Cauliflower Gluten Free Pizza",
+          "description": "",
+          "price": "14.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/73115e71-9859-4325-8f0d-f9d8716e582c.png",
+          "modifications": [],
+          "diets": [
+            "glutenFree"
+          ]
+        },
+        {
+          "name": "Bianca Pie (Pizzettta)",
+          "description": "(No sauce)",
+          "price": "15.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/9c813491-e7bd-4ce5-bbb9-07a9adb46797.png",
+          "modifications": []
+        },
+        {
+          "name": "Bianca Pie (Large)",
+          "description": "(No sauce)",
+          "price": "27.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/fc8789d1-5a25-41d6-9500-49c0d858e6d1.png",
+          "modifications": []
+        },
+        {
+          "name": "Broccoli or Spinach Pie (Pizzetta)",
+          "description": "With or Without Sauce",
+          "price": "15.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/84c559a3-9826-45d0-b2bf-b2df253a9c6d.png",
+          "modifications": []
+        },
+        {
+          "name": "Broccoli or Spinach Pie (Large)",
+          "description": "With or Without Sauce",
+          "price": "27.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/d2957ae3-ac91-47ad-a956-092b07a0149f.png",
+          "modifications": []
+        },
+        {
+          "name": "Broccoli or Spinach White Pie (Pizzetta)",
+          "description": "Sauteed broccoli or spinach topped with ricotta &amp; mozzarella.",
+          "price": "17.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/ca366a94-3dab-4b07-a43f-0e1c415e43fc.png",
+          "modifications": []
+        },
+        {
+          "name": "Broccoli or Spinach & White Pie (Large)",
+          "description": "Sauteed broccoli or spinach topped with ricotta &amp; mozzarella.",
+          "price": "29.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/54748745-5735-4fb6-bb33-bb464cd7618b.png",
+          "modifications": []
+        },
+        {
+          "name": "Lasagna Pie (Pizzetta)",
+          "description": "Seasoned sauteed ground beef topped with ricotta &amp; mozzarella.",
+          "price": "17.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Lasagna Pie (Large)",
+          "description": "Seasoned sauteed ground beef topped with ricotta &amp; mozzarella.",
+          "price": "31.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Pizza Rustica (Pizzetta)",
+          "description": "Fresh sausage, tomato, fresh garlic, extra virgin olive oil, basil &amp; provolone cheese.",
+          "price": "17.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Pizza Rustica (Large)",
+          "description": "Fresh sausage, tomato, fresh garlic, extra virgin olive oil, basil &amp; provolone cheese.",
+          "price": "31.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Meat Lovers Pizza (Pizzetta)",
+          "description": "Pepperoni, sausage, meatball &amp; mozzarella",
+          "price": "17.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/7316bfc1-4e17-4df7-87ec-b033277603e0.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Meat Lovers Pizza (Large)",
+          "description": "Pepperoni, sausage, meatball &amp; mozzarella",
+          "price": "31.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/8edcb47c-4f61-4215-9dd5-3e4fd853b72a.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Hawaiian Pie (Pizzetta)",
+          "description": "No sauce. Pineapple, ham &amp; mozzarella",
+          "price": "17.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/2881a04d-1c0e-4caf-9521-04bb7147b536.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Hawaiian Pie (Large)",
+          "description": "No sauce. Pineapple, ham &amp; mozzarella",
+          "price": "30.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/311390e8-10b5-44c1-a0ed-5eb9d1e172e2.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Rigatoni Ala Vodka Pizza (Pizzetta)",
+          "description": "",
+          "price": "17.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/27be41e9-be63-4f17-96bb-1008eb9d3727.png",
+          "modifications": []
+        },
+        {
+          "name": "Rigatoni Ala Vodka Pizza (Large)",
+          "description": "",
+          "price": "30.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/255ed15a-79a8-4d8f-be2e-90b34d677bda.png",
+          "modifications": []
+        },
+        {
+          "name": "Baked Ziti with Ricotta Pie (Pizzetta)",
+          "description": "",
+          "price": "17.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1830896c-2018-4e5a-a8c0-bff7a3bbc450.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Baked Ziti with Ricotta Pie (Large)",
+          "description": "",
+          "price": "30.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/e8e04665-4c75-4967-b222-95062d0eb4db.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Summer Pizza (Pizzetta)",
+          "description": "Fresh tomato &amp; fresh mozzarella topped with extra virgin olive oil &amp; fresh basil.",
+          "price": "17.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/fd4bdf92-eee1-48d8-88f3-e8144cb9fc5f.png",
+          "modifications": []
+        },
+        {
+          "name": "Summer Pizza (Large)",
+          "description": "Fresh tomato &amp; fresh mozzarella topped with extra virgin olive oil &amp; fresh basil.",
+          "price": "30.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/c7aa96f6-4729-44bf-aabc-1f2cbad0c50b.png",
+          "modifications": []
+        },
+        {
+          "name": "Margherita Pizza (Pizzetta)",
+          "description": "Marinara sauce, fresh mozzarella basil &amp; extra virgin olive oil",
+          "price": "15.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/437d5040-1a05-4739-974b-8a707025f314.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Margherita Pizza (Large)",
+          "description": "Marinara sauce, fresh mozzarella basil &amp; extra virgin olive oil.",
+          "price": "27.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/5e60f868-c60a-4936-8f09-ae5cbdefa03a.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Fajita Pizza (Pizzetta)",
+          "description": "Roasted peppers, roasted onions &amp; grilled chicken tossed in a balsamic demi glaze",
+          "price": "18.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/13249a02-2c3f-4fe8-8a02-ba81121743af.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Fajita Pizza (Large)",
+          "description": "Roasted peppers, roasted onions &amp; grilled chicken tossed in a balsamic demi glaze.",
+          "price": "31.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/134152fc-ed7b-4ae3-ada6-f50d6787a016.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Parmigiana Pizza (Pizzetta)",
+          "description": "",
+          "price": "18.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/76d19a6f-6061-4ae2-960e-b04861eca3c9.png",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Parmigiana Pizza (Large)",
+          "description": "",
+          "price": "31.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/01914cad-bd35-4e92-b476-4f8de6b38f0f.png",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Marsala with Broccoli Pizza (Pizzetta)",
+          "description": "Sauteed chicken breast in a Marsala wine sauce topped with broccoli &amp; mozzarella",
+          "price": "18.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Chicken Marsala with Broccoli Pizza (Large)",
+          "description": "Sauteed chicken breast in a Marsala wine sauce topped with broccoli &amp; mozzarella.",
+          "price": "31.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Mexican Pie (Pizzetta)",
+          "description": "Oven roasted chicken breast with fresh tomato, onion, jalapenos &amp; mozzarella",
+          "price": "18.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Mexican Pie (Large)",
+          "description": "Oven roasted chicken breast with fresh tomato, onion, jalapenos &amp; mozzarella.",
+          "price": "31.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Phil’s Special Pizza (Pizzetta)",
+          "description": "Sausage, mushroom, meatball, peppers, pepperoni, red onion, black olives &amp; extra cheese",
+          "price": "18.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/42526fbc-ac28-43b7-87c4-c05f01c8f6a0.png",
+          "modifications": []
+        },
+        {
+          "name": "Phil’s Special Pizza (Large)",
+          "description": "Sausage, mushroom, meatball, peppers, pepperoni, red onion, black olives &amp; extra cheese.",
+          "price": "31.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/78d556a7-092f-4c42-9ab4-8fe292fd2637.png",
+          "modifications": []
+        },
+        {
+          "name": "Primavera Vegetable Pizza (Pizzetta)",
+          "description": "Sauteed Broccoli &amp; Spinach with eggplant in a tomato sauce topped with mozzarella.",
+          "price": "18.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/00a52500-cfe3-4dd4-9e51-cc3643361db4.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Primavera Vegetable Pizza (Large)",
+          "description": "Broccoli, eggplant &amp; spinach in a tomato sauce with mozzarella.",
+          "price": "31.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/2e70e420-a4c7-434a-9d9f-349b89565a36.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Chicken & Tomato Pizza (Pizzetta)",
+          "description": "Fried chicken topped with fresh tomato, fresh basil &amp; extra virgin olive oil",
+          "price": "18.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/37e93373-6887-494e-92cf-ac1222ecbd29.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Chicken & Tomato Pizza (Large)",
+          "description": "Fried chicken topped with fresh tomato, fresh basil &amp; extra virgin olive oil.",
+          "price": "31.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/abebf27f-1237-4592-b10c-7bd199337ff1.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Marinara Pizza (Large)",
+          "description": "No cheese. Sicilian crust topped with marinara sauce, fresh basil, a touch of garlic &amp; extra virgin olive oil",
+          "price": "21.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Grilled Chicken Caesar Pie (Pizzetta)",
+          "description": "Romaine lettuce tossed in our homemade Caesar dressing topped with fresh grilled chicken &amp; fresh pecorino Romano cheese",
+          "price": "18.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Grilled Chicken Salad Pie (Pizzetta)",
+          "description": "Mixed Greens, Tomatoes, cucumbers, red onions & carrots Toped with black olives & Grilled chicken ",
+          "price": "18.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/dbca9452-d251-4487-8d68-dd495d287f48.png",
+          "modifications": []
+        },
+        {
+          "name": "Phil's Salad Pie (Pizzetta)",
+          "description": "Mixed Greens, Tomatoes, cucumbers, red onions & carrots Toped with black olives & Fresh Mozzarella ",
+          "price": "18.50",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "Grilled Chicken Caesar Pie (Large)",
+          "description": "Romaine lettuce tossed in our homemade Caesar dressing topped with fresh grilled chicken &amp; fresh pecorino Romano cheese.",
+          "price": "31.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/63d13ff9-b027-436e-b6cb-76b93997081f.png",
+          "modifications": []
+        },
+        {
+          "name": "Phil's Salad Pie (Large)",
+          "description": "Mixed Greens, Tomatoes, cucumbers, red onions & carrots Toped with black olives & Fresh Mozzarella ",
+          "price": "30.50",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "Grilled Chicken Salad Pie (Large)",
+          "description": "Mixed Greens, Tomatoes, cucumbers, red onions & carrots Toped with black olives & Grilled chicken  ",
+          "price": "31.50",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "BBQ Chicken Pie (Pizzetta)",
+          "description": "Chicken breast toasted in BBQ sauce topped with mozzarella",
+          "price": "18.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "BBQ Chicken Pie (Large)",
+          "description": "Chicken breast toasted in BBQ sauce topped with mozzarella.",
+          "price": "31.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/319a34ca-bb91-4e59-bfa7-12ac5e70ff50.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "BBQ Chicken Bacon Ranch Pie (Pizzetta)",
+          "description": "",
+          "price": "18.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/a4f0304b-e0ce-4a1e-8242-a3f1431be77d.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "BBQ Chicken Bacon Ranch Pie (Large)",
+          "description": "",
+          "price": "31.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Buffalo Chicken Pie (Pizzetta)",
+          "description": "Chicken breast tossed in a spicy sauce &amp; topped with mozzarella",
+          "price": "18.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Buffalo Chicken Pie (Large)",
+          "description": "Chicken breast tossed in a spicy sauce &amp; mozzarella.",
+          "price": "31.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Vegan Sicilian Pie (Large)",
+          "description": "",
+          "price": "30.75",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/4ea26cb9-7b93-4381-898b-8ade90bb2511.jpeg",
+          "modifications": [],
+          "diets": [
+            "vegan"
+          ]
+        },
+        {
+          "name": "Seafood Fra Diavolo Pie (Pizzetta)",
+          "description": "Calamari, shrimp sauteed in a garlic roll &amp; spicy marinara sauce, topped with mozzarella",
+          "price": "20.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Seafood Fra Diavolo Pie (Large)",
+          "description": "Calamari, shrimp sauteed in a garlic roll &amp; spicy marinara sauce, topped with mozzarella.",
+          "price": "36.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Grandma Pie (Large)",
+          "description": "Thin roasted garlic crust topped with fresh mozzarella, marinara sauce, fresh garlic, basil &amp; extra virgin olive oil.",
+          "price": "25.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/78281217-2ba5-4643-a979-5ed76dbad51a.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Drunken Grandma Pizza (Large)",
+          "description": "Roasted garlic crust topped with fresh mozzarella &amp; vodka sauce",
+          "price": "27.50",
+          "imageUrl": null,
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Family Time Specials",
+      "description": "",
+      "items": [
+        {
+          "name": "Big Family Night Special",
+          "description": "2 Cheese pies, 12 Garlic Knots, 2 Lg Salads 12 Zeppole's & 2 Liter soda.",
+          "price": "75.00",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "Chicken Night",
+          "description": "Pick any 2 Chicken Dinners with Pasta or salad, 6 Garlic Knots, 6 Zeppoles, 1 Liter Soda.",
+          "price": "45.00",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "Shrimp Night",
+          "description": "Pick any 2 Shrimp dinners with Salad or Pasta, 6 Garlic Knots & 6 Zeppole's, 1 Liter soda.",
+          "price": "50.00",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "Pasta Night",
+          "description": "Pick 2 Pasta dishes, Small Salad, 6 Garlic Knots, 6 Zeppoles",
+          "price": "35.00",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "App Combo Special",
+          "description": "6 Baked Clams, Fried Calamari & Stuffed Mushroom",
+          "price": "35.00",
+          "imageUrl": "",
+          "modifications": []
+        },
+        {
+          "name": "Halloween Combo",
+          "description": "Large pie, 2 liter soda, 6 garlic knots and 6 zeppoles.",
+          "price": "30.00",
+          "imageUrl": null,
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "description": "",
+      "items": [
+        {
+          "name": "Cheesecake",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/c4cbbfbc-8ba1-4605-aabd-c4a9ebe6726d.png",
+          "modifications": []
+        },
+        {
+          "name": "Tiramisu",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/f0c65c01-8b8c-43df-b9f7-99e8b35c5966.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Oreo Fudge Cake",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/23ade91d-996b-4daa-8350-2996952bb56c.png",
+          "modifications": []
+        },
+        {
+          "name": "Chocolate Cake",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/f7d74725-15d6-4fda-87a0-a6391edeab3e.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Zeppoles (3)",
+          "description": "",
+          "price": "2.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/d6f2540b-5f96-4633-bb71-d2de54b0595e.png",
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Side Orders & Vegetables",
+      "description": "",
+      "items": [
+        {
+          "name": "Side of Sauce (4 oz.)",
+          "description": "",
+          "price": "1.00",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Side of Dressing (4 oz.)",
+          "description": "",
+          "price": "1.00",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Grated Parmigiano Reggiano (2 oz.)",
+          "description": "",
+          "price": "1.50",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "French Fries",
+          "description": "",
+          "price": "4.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "French Fries with Cheese",
+          "description": "",
+          "price": "5.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Onion Rings",
+          "description": "",
+          "price": "4.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Sauteed Broccoli Rabe",
+          "description": "",
+          "price": "9.95",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/4617d7ff-05af-4fd9-8195-6103a78dfbed.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Sauteed Broccoli",
+          "description": "",
+          "price": "8.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Sauteed Spinach",
+          "description": "",
+          "price": "8.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Grilled or Fried Chicken Cutlet",
+          "description": "",
+          "price": "6.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Side Order Meatball (2)",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/cbe0e4d2-666a-425f-b3e9-00aa5c05a555.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Side Order Italian Sausage (2)",
+          "description": "",
+          "price": "7.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Side of Tomato Sauce (16 oz.)",
+          "description": "",
+          "price": "6.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Side of Vodka Sauce (16 oz.)",
+          "description": "",
+          "price": "10.20",
+          "imageUrl": null,
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Drinks & Coffee",
+      "description": "",
+      "items": [
+        {
+          "name": "Can Soda",
+          "description": "",
+          "price": "1.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/58f3c3d1-a81f-4644-b6a7-96899d8f423b.png",
+          "modifications": []
+        },
+        {
+          "name": "1 Liter Soda",
+          "description": "",
+          "price": "3.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "2 Liter Soda",
+          "description": "",
+          "price": "4.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Snapple",
+          "description": "",
+          "price": "2.75",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/f9dbe4bc-291b-48ac-988c-f6dd6d5b69de.png",
+          "modifications": []
+        },
+        {
+          "name": "Stewart’s Soda",
+          "description": "",
+          "price": "3.25",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/1ec30392-72f2-4694-870a-2c97ffb5988c.png",
+          "modifications": []
+        },
+        {
+          "name": "Water (16 oz.)",
+          "description": "",
+          "price": "1.75",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "1 Liter Water",
+          "description": "",
+          "price": "2.75",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Coffee",
+          "description": "",
+          "price": "2.75",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Iced Coffee",
+          "description": "",
+          "price": "3.25",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Tea",
+          "description": "",
+          "price": "2.75",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Espresso",
+          "description": "",
+          "price": "3.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Cappuccino",
+          "description": "",
+          "price": "4.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Iced Cappuccino",
+          "description": "",
+          "price": "5.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Hot Chocolate",
+          "description": "",
+          "price": "3.20",
+          "imageUrl": null,
+          "modifications": []
+        },
+        {
+          "name": "Iced Hot Chocolate",
+          "description": "",
+          "price": "4.20",
+          "imageUrl": null,
+          "modifications": []
+        }
+      ]
+    },
+    {
+      "name": "Seafood Entree",
+      "description": "",
+      "items": [
+        {
+          "name": "Fried Calamari Entree",
+          "description": "Golden fried calamari served with homemade marinara sauce.",
+          "price": "21.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/7da22742-0618-4827-b0ce-1391985b0b7a.jpeg",
+          "modifications": []
+        },
+        {
+          "name": "Marinara (Mild or Fra Divavolo)",
+          "description": "Hot or Mild. Sauteed in garlic, extra virgin olive oil & finished in homemade marinara sauce.\nChoose 1 ( Calamari or Shrimp",
+          "price": "21.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/e4ec18e3-f04e-4533-9679-1541b5d780e1.png",
+          "modifications": []
+        },
+        {
+          "name": "Fried Shrimp",
+          "description": "Served golden brown with fresh lemon.",
+          "price": "20.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/04143bd3-c9c3-4f7d-b08b-24a1f4252e8a.png",
+          "modifications": []
+        },
+        {
+          "name": "Shrimp Alfredo",
+          "description": "Served in a white cream sauce.",
+          "price": "22.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/69c7b0f4-beb2-40c0-9178-b0e82c8cfce1.png",
+          "modifications": []
+        },
+        {
+          "name": "Shrimp Francese",
+          "description": "Egg-battered shrimp topped with lemon &amp; white wine sauce.",
+          "price": "22.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/72ab1bb8-c414-4c0b-8222-7090f50a2f35.png",
+          "modifications": []
+        },
+        {
+          "name": "Shrimp Scampi",
+          "description": "Sauteed with garlic &amp; white wine.",
+          "price": "22.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/df0cba37-c457-453c-bc68-5d4021123154.png",
+          "modifications": []
+        },
+        {
+          "name": "Shrimp Vodka",
+          "description": "",
+          "price": "22.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/ebf1fc28-f8f1-46b5-9465-b2dc742ff12c.png",
+          "modifications": []
+        },
+        {
+          "name": "Shrimp Parmigiana",
+          "description": "Fried shrimp served with tomato sauce &amp; topped with mozzarella cheese.",
+          "price": "22.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/eb4446c2-af99-461d-807e-8c3a9dce9546.png",
+          "modifications": []
+        },
+        {
+          "name": "Seafood Platter",
+          "description": "Broiled or fried. Calamari & Shrimp.",
+          "price": "27.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/f5f3ec85-a249-4725-8f89-3758bee87dc6.png",
+          "modifications": []
+        },
+        {
+          "name": "Frutta di Mare",
+          "description": "An assortment of shrimp, mussels, clams &amp; calamari in homemade marinara.",
+          "price": "27.50",
+          "imageUrl": "https://philandsonpizza.avcoindustries.com/api/img/1200/10254250-a8d4-499f-9acc-9473221716b6.jpeg",
+          "modifications": []
+        }
+      ]
+    }
+  ],
+  "menuName": "Takeout Menu"
+}
